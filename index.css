@@ -1,6 +1,7 @@
 body{
     background-color: #222222;
     color: #EEEEEE;
+    /* The elements outside of main weren't centered and it bothered me */
     text-align: center;
 }
 
